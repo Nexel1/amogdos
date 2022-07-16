@@ -11,6 +11,8 @@ Bootloader is made for microkernels but Amogdos kernel isn't really a microkerne
 
 
 
+Anyways don't get your expectations high this won't be new freedos or winblows probably it would be collection of trash horribly programmed drivers with a kernel lacking many essential features.
+
 # Current State:
 There isn't even a terminal yet lmao what you are talkin' about, only super basic stuff and bunch of drivers that broken but you can change it by contributing.
 
