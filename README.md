@@ -1,5 +1,5 @@
 # amogdos
-A work in progress meme dos clone that has an amogus theme
+A work in progress (sussy af) meme dos clone that has an amogus theme
 
 Amogus is a dead meme now but still I wanna make it
 
