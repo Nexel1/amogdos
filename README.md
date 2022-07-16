@@ -15,7 +15,7 @@ Bootloader is made for microkernels but Amogdos kernel isn't really a microkerne
 There isn't even a terminal yet lmao what you are talkin' about, only super basic stuff and bunch of drivers that broken but you can change it by contributing.
 
 ## Bootable isos
-Will be released in Augustus cuz os is so broken rn and i have other projects when I add threading and the terminal there will be a bootable iso that you can test on your vm
+Will be released in Augustus cuz os (not even an os just a crappy kernel) is so broken rn and i have other projects when I add threading and the terminal there will be a bootable iso that you can test on your vm
 
 Features:
 |Feature|Does it work?|
