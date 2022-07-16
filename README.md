@@ -20,6 +20,7 @@ Features:
 |Memory management| buggy af but should work to some extent|
 |Threads| Nope I couldn't figure out how to make threads properly|
 |Sussyness| Yes only fully working feature amogus!|
+|Graphics.| Unfinished but who can't say no to bgi reimplemnentions?|
 
 Planned Features:
 |Feature|Help Needed (true or false)|Will I implement before I die|
@@ -31,3 +32,15 @@ Planned Features:
 
 anyways a wise man said "Amogus will never die, I will keep posting amogus forever", most of people think amogus is unfunny which it is but maybe we can turn something unfunny to funny with our efforts.
 It's just made to fuel up amogus again lol.
+
+**A warning**: Never tested this on real hardware only qemu if you run this on real hardware anything could happen from your speakers playing a earrape to bricking your pc even summoning an amogus irl who knows what could happen and probably there are illegal memory accesses that could mess stuff up, only test in vms until i get brave enough and run it on cheap trash netbooks.
+
+A sidenote: Sus sus abigus
+
+This project has no relation to AmogOs project this project is not a linux distro it tries to
+# License
+Honestly I do not care what you do and I do not claim any liabilities the parts of code has mit text on it are free to use by you
+
+i stole interrupt descriptor table from a tutorial i saw on youtube because too lazy to figure it out from the osdev.org article
+tutorial doesn't specify a license but owner of tutorial forked one of people's project who had followed his tutorial so im guessing it is free to redistribute since he forked a project of a follower and most of his repos licensed mit alongside with another youtube tutorial series he has done
+
