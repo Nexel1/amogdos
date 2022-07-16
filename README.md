@@ -38,6 +38,12 @@ It's just made to fuel up amogus again lol.
 A sidenote: Sus sus abigus
 
 This project has no relation to AmogOs project this project is not a linux distro it tries to
+
+# Compiling
+You can use makefile from the bootboot and just swap the kernel.c destination in the file
+
+You need gnu cross compiler which is pain to build, I would like to include prebuild binaries somewhere but you'll think that would be a linux
+also oh yeah you need loonix windows is trash anyways (it is ironic to say this on a platform owned by micro$oft corparation)
 # License
 Honestly I do not care what you do and I do not claim any liabilities the parts of code has mit text on it are free to use by you
 
